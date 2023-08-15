@@ -8,11 +8,11 @@
 	scroll-behavior: smooth;
 }
 :root{
-	--bg-color: #2a2a2a;
+	--bg-color: #453E4F;
 	--second-bg-color: #202020;
-	--text-color: #fff;
-	--second-color: #ccc;
-	--main-color:   #298EC7;
+	--text-color: #FFE8D6;
+	--second-color: #E8EFF7;
+	--main-color:   #F19494;
 	--big-font: 5rem;
 	--h2-font: 3rem;
 	--p-font: 1.1rem;
@@ -157,7 +157,7 @@ section{
 header.sticky{
     background:rgba(14, 14, 14, 0.798);
 
-	border-bottom: 1px solid #ffffff1a;
+	border-bottom: 10px solid #E9B14C;
 	padding: 12px 15%;
     height:100px;
     
@@ -348,13 +348,13 @@ border-left: 10px solid rgb(17, 16, 16);
 	width: 100%;
 	border-radius: 8px;
 	display: block;
-	border: 25px solid  #298EC7;
+	border: 25px solid  #F19494;
 	transition: transform 0.5s;
 }
 .layer{
 	width: 100%;
 	height: 0;
-    background: linear-gradient(rgba(0,0,0,0.1),#2e5fc8);
+    background: linear-gradient(rgba(0,0,0,0.1),#F19494);
 
 	position: absolute;
 	border-radius: 8px;
