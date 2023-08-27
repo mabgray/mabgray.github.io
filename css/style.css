@@ -402,10 +402,10 @@ border-left: 10px solid rgb(17, 16, 16);
 
 .contact{
 	background: var(--second-bg-color);
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
+	/* display: grid; */
+	/* grid-template-columns: repeat(2, 1fr); */
 	align-items: center;
-	gap: 2.5rem;
+	/* gap: 2.5rem; */
 	
 }
 .contact-text h4{
@@ -459,7 +459,7 @@ border-left: 10px solid rgb(17, 16, 16);
 	color: var(--main-color);
 }
 
-.contact-form form{
+/* .contact-form form{
 	position: relative;
 }
 .contact-form form input,
@@ -490,7 +490,7 @@ form textarea{
 	transform: scale(1.1);
 	cursor: pointer;
 }
-
+ */
 .footer
 {
 	padding: 20px 15%;
