@@ -406,6 +406,7 @@ border-left: 10px solid rgb(17, 16, 16);
 	grid-template-columns: repeat(2, 1fr);
 	align-items: center;
 	gap: 2.5rem;
+	
 }
 .contact-text h4{
 	color: var(--text-color);
